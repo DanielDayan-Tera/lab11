@@ -14,7 +14,7 @@ In this lab, we learned how to make clock dividers from two types of counters.
 ## Names Daniel Dayan, Audrey Fitchett
 
 ## Summary
-We went through hell today. We practiced implemementing a ripple counter using several T flip flops and a modulo counter using an adder and d flip flops. 
+We practiced implemementing a ripple counter using several T flip flops and a modulo counter using an adder and d flip flops. 
 ## Lab Questions
 
 ### 1 - Why does the Modulo Counter actually divide clocks by 2 * Count?
